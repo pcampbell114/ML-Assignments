@@ -1,3 +1,5 @@
+#NOTE FROM PATRICK: THESE ARE THE ASSIGNMENT'S INSTRUCTIONS
+
 ## Intro to PyTorch
 In this problem you will explore PyTorch, and implement basic components of its nn module.
 The problem is organized to mimic (though not exactly) structure of PyTorch.
